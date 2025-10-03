@@ -7,10 +7,12 @@ using namespace std;
 
 class Clip {
 public:
-    void saludar();
-    void mostrarAyuda();
-    void darConsejo();
-    void mostrarHora();
+    void Hello();
+    void Help();
+    void GiveAdvice();
+    void ShowHour();
+    void Run();
+    void ConvertFile();
 };
 
 #endif // CLIP_HPP

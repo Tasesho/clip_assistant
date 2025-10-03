@@ -35,5 +35,8 @@ The User can Interact with the Command Prompt. Following the next commands:
 ### Option 1.
 >Download clip.exe from the realeases tab, the copy the file to any folder ion your PC, then open the file to start using it.
 
+
+## For more changes, visit [CHANGELOG.md](./CHANGELOG.md)
+
 ## Disclaimer
 This project has been developed exclusively with educational pourposes. It is an Open-source project, so feel free to use it as you wish.

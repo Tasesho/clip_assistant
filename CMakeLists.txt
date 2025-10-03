@@ -12,3 +12,8 @@ add_executable(clip
     src/main.cpp
     src/clip.cpp
 )
+
+set_target_properties(
+    clip PROPERTIES
+    OUTPUT_NAME "clip-0.0.2"
+)
