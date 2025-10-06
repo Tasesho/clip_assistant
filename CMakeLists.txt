@@ -15,5 +15,5 @@ add_executable(clip
 
 set_target_properties(
     clip PROPERTIES
-    OUTPUT_NAME "clip-0.0.2"
-)
+    OUTPUT_NAME "clip-0.0.3"
+) 
