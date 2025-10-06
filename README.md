@@ -1,4 +1,4 @@
-## Clip Assistant
+## Clip Assistant 
 
 Clip is a **virtual assistant** developed in C++, inspired by the classic "Clippy" from windows 97.
 
